@@ -1,0 +1,2 @@
+1.which adalah perintah yang digunakam untuk mencari tahu salinan perintah yang di gunakan saat ini/yang ada di terminal
+2.jadi, ketika kita mengetik which php di terminal maka yang muncukl adalah 'usr/bin/php(itu (itu menunjukkan letak php)XXC
