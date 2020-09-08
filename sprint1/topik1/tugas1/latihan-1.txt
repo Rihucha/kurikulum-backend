@@ -1,0 +1,17 @@
+set Office = "Microsoft Office";
+set Microsoft_Word = '';
+
+JIKA Office == '' 
+  MAKA lakukan install Microsoft Office
+LAINNYA
+  jalankan Microsoft Word;
+AKHIR-JIKA
+
+Microsoft_Word = MASUKKAN(text);
+
+KELUAR Microsoft Word;
+JIKA dataMicrosoft_Word == UNSAVED
+  MAKA melakukan save data DAN keluar dari Microsoft Word
+LAINNYA
+  keluar dari Microsoft Word
+AKHIR-JIKA
