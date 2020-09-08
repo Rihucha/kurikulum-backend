@@ -1,0 +1,23 @@
+SET bumbu = ["minyak","kecap","saus","bumbu mie","bawang goreng"]
+SET bahan = ["mie goreng","telur"]
+SET tambahan = "nasi"
+
+SET masak = input(air)
+
+JIKA masak == "mendidih"
+    MAKA masak = input(bahan)
+LAINNYA
+   masak = "mendidih"
+AKHIR-JIKA
+
+JIKA masak == "matang"
+    MAKA piring = input(masak)
+LAINNYA
+    masak = "matang"
+AKHIR-JIKA
+
+piring = input(bumbu)
+piring = input(tambahan)
+
+
+output(piring)
