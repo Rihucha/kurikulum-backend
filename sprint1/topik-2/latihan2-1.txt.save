@@ -1,0 +1,22 @@
+ $d bertipe integer dan $e bertipe string.
+     Ketika string yang berupa angka diberikan oprator aritmatika maka variabel
+     akan otomatis mengganti tipe data dari variabel yang tadinya string menjadi integer.
+
+2. var_dump($e==$f)
+  => hasilnya adalah true karena nilai pada $d dan $e sama-sama 2.
+
+3. var_dump($e===$f)
+  => hasilnya adalah false karena nilai pada $d bertipe integer dan $ bertipe string. Operator
+     perbandingan "===" akan bernilai true jika nilai dan tipe data sama.
+
+4. var_dump($g)
+  => hasilnya adalah NULL, karena ketika variabel $g memiliki nilai null (kosong)
+
+5. var_dump((bool)$g)
+  => hasilnya adalah false, karena nilai pada $g diubah menjadi boolean, dan konversi boolean
+     null adalah false. Seperti saklar pada lampu yang memiliki simbol 1 dan 0 dimana 1 adalah
+     menyalakan lampu (true) dan 0 mematikan lampu (false).
+
+6. var_dump((int)$g)
+  => hasilnya adalah int 0, karena nilai null pada $g diubah menjadi integer dimana nilai NULL sama dengan 0.
+
