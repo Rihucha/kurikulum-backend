@@ -1,0 +1,81 @@
+array_change_key_case - Mengubah kapitalisasi semua kunci dalam sebuah array
+    array_chunk - Membagi array menjadi beberapa bagian
+    array_column - Mengembalikan nilai dari satu kolom dalam array input
+    array_combine - Membuat array dengan menggunakan satu array untuk kunci dan satu lagi untuk nilainya
+    array_count_values ​​- Menghitung semua nilai dari sebuah array
+    array_diff_assoc - Menghitung perbedaan array dengan pemeriksaan indeks tambahan
+    array_diff_key - Menghitung perbedaan array menggunakan kunci untuk perbandingan
+    array_diff_uassoc - Menghitung perbedaan array dengan pemeriksaan indeks tambahan yang dilakukan oleh fungsi panggilan balik yang disediakan pengguna
+    array_diff_ukey - Menghitung perbedaan array menggunakan fungsi panggilan balik pada tombol untuk perbandingan
+    array_diff - Menghitung perbedaan array
+    array_fill_keys - Isi array dengan nilai, tentukan kunci
+    array_fill - Isi array dengan nilai
+    array_filter - Memfilter elemen array menggunakan fungsi callback
+    array_flip - Menukar semua kunci dengan nilai yang terkait dalam sebuah array
+    array_intersect_assoc - Menghitung perpotongan array dengan pemeriksaan indeks tambahan
+    array_intersect_key - Menghitung perpotongan array menggunakan kunci untuk perbandingan
+    array_intersect_uassoc - Menghitung perpotongan array dengan pemeriksaan indeks tambahan, membandingkan indeks dengan fungsi callback
+    array_intersect_ukey - Menghitung perpotongan array menggunakan fungsi callback pada tombol untuk perbandingan
+    array_intersect - Menghitung perpotongan array
+    array_key_exists - Memeriksa apakah kunci atau indeks yang diberikan ada dalam array
+    array_key_first - Mendapat kunci pertama dari sebuah array
+    array_key_last - Mendapat kunci terakhir dari sebuah array
+    array_keys - Mengembalikan semua kunci atau subset dari kunci array
+    array_map - Menerapkan callback ke elemen array yang diberikan
+    array_merge_recursive - Menggabungkan satu atau lebih array secara rekursif
+    array_merge - Menggabungkan satu atau lebih array
+    array_multisort - Mengurutkan array multi-dimensi atau multi-dimensi
+    array_pad - Pad array dengan panjang yang ditentukan dengan nilai
+    array_pop - Lepaskan elemen dari akhir array
+    array_product - Hitung produk nilai dalam array
+    array_push - Dorong satu atau lebih elemen ke akhir array
+    array_rand - Pilih satu atau lebih kunci acak dari sebuah array
+    array_reduce - Mengurangi array secara berulang menjadi satu nilai menggunakan fungsi callback
+    array_replace_recursive - Mengganti elemen dari array yang diteruskan ke dalam array pertama secara rekursif
+    array_replace - Mengganti elemen dari array yang dilewatkan ke dalam array pertama
+    array_reverse - Mengembalikan array dengan elemen dalam urutan terbalik
+    array_search - Mencari array untuk nilai yang diberikan dan mengembalikan kunci pertama yang sesuai jika berhasil
+    array_shift - Menggeser elemen dari awal array
+    array_slice - Ekstrak potongan dari array
+    array_splice - Hapus sebagian dari array dan ganti dengan yang lain
+    array_sum - Hitung jumlah nilai dalam array
+    array_udiff_assoc - Menghitung perbedaan array dengan pemeriksaan indeks tambahan, membandingkan data dengan fungsi panggilan balik
+    array_udiff_uassoc - Menghitung perbedaan array dengan pemeriksaan indeks tambahan, membandingkan data dan indeks dengan fungsi panggilan balik
+    array_udiff - Menghitung perbedaan array dengan menggunakan fungsi panggilan balik untuk perbandingan data
+    array_uintersect_assoc - Menghitung perpotongan array dengan pemeriksaan indeks tambahan, membandingkan data dengan fungsi callback
+    array_uintersect_uassoc - Menghitung perpotongan array dengan pemeriksaan indeks tambahan, membandingkan data dan indeks dengan fungsi panggilan balik terpisah
+    array_uintersect - Menghitung perpotongan array, membandingkan data dengan fungsi callback
+    array_unique - Menghapus nilai duplikat dari array
+    array_unshift - Menambahkan satu atau lebih elemen ke awal array
+    array_values ​​- Mengembalikan semua nilai dari sebuah array
+    array_walk_recursive - Menerapkan fungsi pengguna secara rekursif ke setiap anggota array
+    array_walk - Menerapkan fungsi yang disediakan pengguna ke setiap anggota array
+    array - Membuat array
+    arsort - Mengurutkan array dalam urutan terbalik dan memelihara asosiasi indeks
+    asort - Mengurutkan array dan memelihara asosiasi indeks
+    compact - Membuat array yang berisi variabel dan nilainya
+    count - Hitung semua elemen dalam array, atau sesuatu di objek
+    current - Mengembalikan elemen saat ini dalam larik
+    each - Mengembalikan pasangan kunci dan nilai saat ini dari array dan memajukan kursor array
+    end - Mengatur penunjuk internal sebuah larik ke elemen terakhirnya
+    ekstrak - Mengimpor variabel ke dalam tabel simbol saat ini dari larik
+    in_array - Memeriksa apakah ada nilai dalam array
+    key_exists - Alias ​​dari array_key_exists
+    key - Ambil kunci dari array
+    krsort - Mengurutkan array berdasarkan kunci dalam urutan terbalik
+    ksort - Mengurutkan array berdasarkan kunci
+    list - Tetapkan variabel seolah-olah itu adalah array
+    natcasesort - Mengurutkan array menggunakan algoritma "natural order" yang tidak membedakan huruf besar / kecil
+    natsort - Mengurutkan array menggunakan algoritma "urutan alami"
+    next - Tingkatkan penunjuk internal dari sebuah array
+    pos - Alias saat ini
+    prev - Mundurkan pointer array internal
+    range - Buat larik yang berisi berbagai elemen
+    reset - Mengatur penunjuk internal larik ke elemen pertamanya
+    rsort - Mengurutkan array dalam urutan terbalik
+    shuffle - Mengocok array
+    sizeof - Alias hitungan
+    sort - Mengurutkan array
+    uasort - Mengurutkan array dengan fungsi perbandingan yang ditentukan pengguna dan memelihara asosiasi indeks
+    uksort - Mengurutkan array berdasarkan kunci menggunakan fungsi perbandingan yang ditentukan pengguna
+    usort - Mengurutkan array berdasarkan nilai menggunakan fungsi perbandingan yang ditentukan pengguna
