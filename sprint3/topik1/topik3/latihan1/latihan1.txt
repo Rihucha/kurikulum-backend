@@ -1,0 +1,10 @@
+1NF
+    Suatu tabel dikatakan 1NF jika dan hanya jika setiap atribut dari data tersebut hanya memiliki nilai tunggal dalam satu baris.
+
+2NF
+    Syarat 2NF adalah tidak diperkenankan adanya partial “functional dependency“ kepada primary key dalam sebuah tabel.
+Functional dependency adalah setiap atribut yang bukan kunci (non key) bergantung secara fungsional terhadap primary key.
+
+3NF
+    Pada 3NF tidak diperkenankan adanya partial “transitive dependency“ dalam sebuah tabel.
+Transitive dependency biasanya terjadi pada tabel hasil relasi, atau kondisi dimana terdapat tiga atribut A, B, C. Kondisinya adalah A ⇒ B dan B ⇒ C. Maka C dikatakan sebagai transitive dependency terhadap A melalui B.
